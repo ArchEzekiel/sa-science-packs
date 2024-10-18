@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2024-10-18
+  Features:
+    - Fixed Space Science recipe icon being set in prototype, overwriting the new item icon - Thanks somethingtohide
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 10/16/2024
+  Features:
+    - Fixed a dependency issue - Thanks RedRafe
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 10/15/2024
+  Features:
+    - Initial Release

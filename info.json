@@ -1,0 +1,9 @@
+{
+	"name": "sa-science-packs",
+	"version": "1.0.2",
+	"title": "Space Age Science Packs",
+	"author": "ArchEzekiel",
+	"factorio_version": "2.0",
+	"description": "You hate it when things are different? You like the new graphics but wish the old ones didn't feel so stale in comparison? Then this mod is for you! Functional without Space Age, but if its enabled then there will be an extra setting :)",
+	"dependencies" : [ "base >= 2.0.0", "? space-age"] 
+}
