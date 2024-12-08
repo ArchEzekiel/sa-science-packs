@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 2024-12-7
+  Changes:
+    - Various Color tweaks
+    - Removed squiggle from logistic science tech icon - Thanks gamingvirtue
+---------------------------------------------------------------------------------------------------
 Version: 1.0.3
 Date: 2024-10-19
   Changes:
